@@ -1,9 +1,9 @@
 # Praktikum 8: Framework Lanjutan (CRUD)
 
 ```bash
-Nama    : Savariana Rika Anugrahaini
+Nama    : FitriYani
 Kelas   : TI.21.A.3
-Nim     : 312110052
+Nim     : 312110460
 ```
 
 ## output
@@ -19,4 +19,4 @@ Output CRUD pada Praktikum 9 - Codeigniter seperti berikut ini:
 ![login](images/login.png)
 ![admin](images/admin.png)
 
-Arigato(●'◡'●)
+MaturSuwon(●'◡'●)
